@@ -15,3 +15,4 @@ Assembled links: the first one includes the o-rings between the threaded section
 
 <img src="https://github.com/user-attachments/assets/4873f0c9-28c3-4cbc-8a76-ef57342951ac" width="400" height="400"/>
 
+García Nava, Salatiel (2025). Desarrollo de un brazo manipulador subacuático. Centro de Investigación y de Estudios Avanzados del IPN. Directores de tesis: Dr. Filiberto Muñoz Palacios, Dr. Sergio Rogelio Lozano Leal. Tesis de doctorado
