@@ -13,4 +13,5 @@ The components of a link in the robotic arm, including sections of tubing, flang
 
 Assembled links: the first one includes the o-rings between the threaded sections, while the lower two display the connecting threads.
 
-<img src="https://github.com/user-attachments/assets/b7d9891a-8af9-471c-9e54-639250dd4a10" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/4873f0c9-28c3-4cbc-8a76-ef57342951ac" width="400" height="400"/>
+
